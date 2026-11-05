@@ -110,3 +110,16 @@ The trained model artifacts are not included in this repository at this stage.
 - Explore additional Transformer architectures.
 - Enhance the user interface and prediction explanations.
 
+## 📸 Project Screenshots
+
+### 1. Emotion Classification Interface
+![Gradio Interface](Screenshot%202026-11-05%20193246.png)
+
+### 2. Model Predictions
+![Model Predictions](Screenshot%202026-11-05%20193318.png)
+
+### 3. Emotion Confidence Scores
+![Confidence Scores](Screenshot%202026-11-05%20193341.png)
+
+### 4. Model Evaluation
+![Model Evaluation](Screenshot%202026-11-05%20193412.png)
